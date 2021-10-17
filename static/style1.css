@@ -1,0 +1,59 @@
+h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: 8px;
+    margin-bottom: 2rem;
+
+}
+
+p {
+    font-size: 20px;
+    line-height: 5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5rem;
+
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 1rem 1rem;
+    border-radius: 10px;
+    transition: background 0.5s;
+}
+
+
+.btn:hover {
+    background:lightsteelblue;
+}
+
+.textbox{
+    padding: 2rem 2rem;
+    border-radius: 12px;
+}
+
+body {
+    background-color: lightgreen;
+  }
+
+.border{
+    padding: 80px 50px;
+    width: 400px;
+    height: 450px;
+    border: 1px solid #236B8E;
+    border-radius: 0px;
+    background-color: lightsalmon;
+}
+
+.textbox{
+    padding: 10px 40px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.word{
+    color: black;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
